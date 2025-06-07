@@ -1,34 +1,33 @@
-# Salut 👋, je suis Ariane ! (fr)
+# Salut, je suis Ariane ! (fr)
 
-Je suis une développeuse en formation ! Je suis passionnée par le développement d'applications mobiles et le développement web.
+Je suis une développeuse en formation, passionnée par le développement d'applications mobiles et le développement web.
 
-- 🎓 Je suis actuellement en études en Développement d'Applications Mobiles au Collège Ahuntsic.
-- 🛠️ Compétences en Android (Kotlin), Web (HTML, CSS, JavaScript, React) et iOS (Swift).
-- ✨ Passionnée par un design épuré et des applications conviviales.
-- 📚 Toujours en apprentissage des nouvelles technologies et des meilleures pratiques.
+- Étudiante en Développement d'applications mobiles au Collège Ahuntsic.
+- Compétences : Android (Kotlin), Web (HTML, CSS, JavaScript, React), iOS (Swift).
+- J’aime concevoir des interfaces épurées et des applications intuitives.
+- Toujours curieuse d’explorer les nouvelles technologies et les bonnes pratiques.
 
-📫 Comment me contacter : [LinkedIn](https://www.linkedin.com/in/ariane-hélie-7685bb363)  
-💼 Découvrez mon portfolio : [Portfolio Link](https://arianehelie.com)
+Comment me contacter : [LinkedIn](https://www.linkedin.com/in/ariane-hélie-7685bb363)  
+Découvrez mon portfolio : [Portfolio Link](https://arianehelie.com)
 
-## 📌 Projets en vedette
-
-- [TaskHiveApp](https://github.com/HelieAriane/TaskHiveApp) — Une application Android intelligente de gestion de tâches.
-- [PWA_Projet](https://github.com/HelieAriane/PWA_Projet) — Un projet d'application web progressive.
+## Projets en vedette
+- [PWA_Projet](https://github.com/HelieAriane/PWA_Projet) — Application web progressive.
+- [HiveTrack](https://github.com/HelieAriane/HiveTrack) — Application Android de géolocalisation.
 
 
 ---
 
-# Hi 👋, I'm Ariane! (en)
-I'm an developer in training! I'm passionate about mobile app development and web development.
+# Hi, I'm Ariane! (en)
+I'm an developer in training, passionate about mobile app development and web development.
 
-- 🎓 I’m studying Mobile App Development at Collège Ahuntsic.
-- 🛠️ Skilled in Android (Kotlin), Web (HTML, CSS, JavaScript, React) and iOS (Swift).
-- ✨ Passionate about clean design and user-friendly apps.
-- 📚 Always learning new technologies and best practices.
+- Studying Mobile Application Development at Collège Ahuntsic.
+- Skills: Android (Kotlin), Web (HTML, CSS, JavaScript, React), iOS (Swift).
+- I love building clean, user-friendly interfaces.
+- Always eager to learn new technologies and best practices.
 
-📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/ariane-hélie-7685bb363)  
-💼 Check out my portfolio : [Portfolio Link](https://arianehelie.com)
+How to reach me : [LinkedIn](https://www.linkedin.com/in/ariane-hélie-7685bb363)  
+Check out my portfolio : [Portfolio Link](https://arianehelie.com)
 
-## 📌 Featured Projects
-- [TaskHiveApp](https://github.com/HelieAriane/TaskHiveApp) — A smart task management Android app.
-- [PWA_Projet](https://github.com/HelieAriane/PWA_Projet) - A Progressive Web App project.  
+## Featured Projects
+- [PWA_Projet](https://github.com/HelieAriane/PWA_Projet) - Progressive Web App project.
+- [HiveTrack](https://github.com/HelieAriane/HiveTrack) — Android geolocation app.
