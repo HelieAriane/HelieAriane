@@ -7,7 +7,7 @@ I'm an developer in training! I'm passionate about mobile app development and we
 - 📚 Always learning new technologies and best practices.
 
 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/ariane-hélie-7685bb363)  
-💼 Check out my portfolio : [Portfolio Link](your-portfolio-link)
+💼 Check out my portfolio : [Portfolio Link](https://arianehelie.com)
 
 ## 📌 Featured Projects
 - [TaskHiveApp](https://github.com/HelieAriane/TaskHiveApp) — A smart task management Android app.
@@ -25,7 +25,7 @@ Je suis une développeuse en formation ! Je suis passionnée par le développeme
 - 📚 Toujours en apprentissage des nouvelles technologies et des meilleures pratiques.
 
 📫 Comment me contacter : [LinkedIn](https://www.linkedin.com/in/ariane-hélie-7685bb363)  
-💼 Découvrez mon portfolio : [Portfolio Link](your-portfolio-link)
+💼 Découvrez mon portfolio : [Portfolio Link](https://arianehelie.com)
 
 ## 📌 Projets en vedette
 
